@@ -20,10 +20,13 @@ data_file ('VEHICLE_LAYOUTS_FILE') ('data/**/vehiclelayouts.meta')
 files {
     'data/**.dat54.rel',
     'data/**.dat151',
-    'dlc_/**.awc',
+    --'dlc_/**.awc',
 }
 
-data_file 'AUDIO_WAVEPACK' 'dlc_expeditious'
-data_file 'AUDIO_SOUNDDATA' 'data/dlcexpeditious_sounds.dat'
+--data_file 'AUDIO_WAVEPACK' 'dlc_expeditious'
+--data_file 'AUDIO_SOUNDDATA' 'data/dlcexpeditious_sounds.dat'
 data_file 'AUDIO_SOUNDDATA' 'data/lspdpack_game.dat151'
 data_file 'AUDIO_SOUNDDATA' 'data/polcarasound_game.dat151'
+
+
+
